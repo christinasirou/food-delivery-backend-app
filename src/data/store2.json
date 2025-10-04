@@ -1,0 +1,25 @@
+{
+  "StoreName": "Burger Bros",
+  "Latitude": 38.02,
+  "Longitude": 23.72,
+  "FoodCategory": "burger",
+  "Stars": 5,
+  "NoOfVotes": 250,
+  "StoreLogo": "burger_bros",
+  "Products": [
+    {
+      "ProductName": "Classic Burger",
+      "ProductType": "burger",
+      "Available Amount": 400,
+      "ProductImage": "classic_burger",
+      "Price": 7.0
+    },
+    {
+      "ProductName": "Cheese Fries",
+      "ProductType": "side",
+      "Available Amount": 200,
+      "ProductImage": "cheese_fries",
+      "Price": 3.5
+    }
+  ]
+}

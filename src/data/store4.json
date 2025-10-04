@@ -1,0 +1,25 @@
+{
+  "StoreName": "Napoli Express",
+  "Latitude": 38.01,
+  "Longitude": 23.75,
+  "FoodCategory": "pizzeria",
+  "Stars": 5,
+  "NoOfVotes": 250,
+  "StoreLogo": "napoli_express",
+  "Products": [
+    {
+      "ProductName": "Pepperoni",
+      "ProductType": "pizza",
+      "Available Amount": 450,
+      "ProductImage": "pepperoni",
+      "Price": 9.0
+    },
+    {
+      "ProductName": "Lasagna",
+      "ProductType": "pasta",
+      "Available Amount": 200,
+      "ProductImage": "lasagna",
+      "Price": 11.5
+    }
+  ]
+}

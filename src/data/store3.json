@@ -1,0 +1,25 @@
+{
+  "StoreName": "Grill House 24/7",
+  "Latitude": 37.98,
+  "Longitude": 23.72,
+  "FoodCategory": "burger",
+  "Stars": 4,
+  "NoOfVotes": 180,
+  "StoreLogo": "grill_house",
+  "Products": [
+    {
+      "ProductName": "Classic Burger",
+      "ProductType": "burger",
+      "Available Amount": 600,
+      "ProductImage": "burger",
+      "Price": 7.5
+    },
+    {
+      "ProductName": "Cheese Fries",
+      "ProductType": "sides",
+      "Available Amount": 300,
+      "ProductImage": "fries",
+      "Price": 4.0
+    }
+  ]
+}

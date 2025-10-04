@@ -1,0 +1,25 @@
+{
+  "StoreName": "Pizza Fun",
+  "Latitude": 37.99,
+  "Longitude": 23.73,
+  "FoodCategory": "pizzeria",
+  "Stars": 4,
+  "NoOfVotes": 120,
+  "StoreLogo": "pizza_fun",
+  "Products": [
+    {
+      "ProductName": "Margarita",
+      "ProductType": "pizza",
+      "Available Amount": 500,
+      "ProductImage": "margarita",
+      "Price": 8.5
+    },
+    {
+      "ProductName": "Carbonara",
+      "ProductType": "pasta",
+      "Available Amount": 300,
+      "ProductImage": "carbonara",
+      "Price": 10.0
+    }
+  ]
+}

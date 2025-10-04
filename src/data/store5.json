@@ -1,0 +1,25 @@
+{
+  "StoreName": "Vesuvio Pizza",
+  "Latitude": 38.03,
+  "Longitude": 23.78,
+  "FoodCategory": "pizzeria",
+  "Stars": 3,
+  "NoOfVotes": 95,
+  "StoreLogo": "vesuvio",
+  "Products": [
+    {
+      "ProductName": "Quattro Formaggi",
+      "ProductType": "pizza",
+      "Available Amount": 350,
+      "ProductImage": "formaggi",
+      "Price": 9.5
+    },
+    {
+      "ProductName": "Tiramisu",
+      "ProductType": "dessert",
+      "Available Amount": 150,
+      "ProductImage": "tiramisu",
+      "Price": 5.0
+    }
+  ]
+}
