@@ -133,13 +133,6 @@ food_delivery_java_distributed_system/
 - Rate stores
 - View all available stores with detailed information
 
-## 🛠️ Troubleshooting
-
-- **"Java not found"**: Install Java JDK and add it to PATH
-- **"ClassNotFoundException"**: Run `comp_start.bat` to compile first
-- **"Connection refused"**: Make sure all services are running in correct order
-- **"File not found"**: Check JSON store paths in `.env` file
-
 ## Notes
 
 - All services must be running for the system to work properly
